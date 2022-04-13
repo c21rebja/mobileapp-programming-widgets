@@ -34,4 +34,4 @@ login_button.setOnClickListener(new View.OnClickListener() {
 ```
 
 Det finns en bild ovanför login-rutan, men av någon anledning syns den inte i emulatorn.
-![](screenshot.png)
+![](Screenshot.png)
